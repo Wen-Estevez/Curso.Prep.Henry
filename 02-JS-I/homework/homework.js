@@ -11,6 +11,7 @@ const nuevoBool = null;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
+//lo que quieras 
 
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * null === 40 ;
